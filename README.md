@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Shahid Yousafxai</h2>
 
-<p align="center">Completely in love with reading, studying, computing, programming, coffee and languages - German, English and Urdu <3.</b> </p>
+<p align="center">Completely in love with Reading, Studying, Programming. <3.</b> </p>
 
 
 <br/>
@@ -8,9 +8,9 @@
 
 #### You can find me here:
 
-[ <img align="left" alt="Sameer katija | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sameerkatija@gmail.com" />][gmail]
-[ <img target="_blank" align="left" alt="Sameer Katija | Twitter"  src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sameerkatija" />][twitter]
-[ <img align="left" alt="Sameer Katija | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
+[ <img align="left" alt= Shahid Bahadur | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shahidbahadur1998@gmail.com" />][gmail]
+
+[ <img align="left" alt=" Shahid Bahadur | Linkedin"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
 
 <br />
 <br/>
