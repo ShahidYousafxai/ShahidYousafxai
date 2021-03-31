@@ -8,7 +8,7 @@
 
 #### You can find me here:
 
-[ <img align="left" alt= Shahid Bahadur | Gmail"  src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shahidbahadur1998@gmail.com" />][gmail]
+[ <img align="left" alt= Shahid Bahadur | Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:shahidbahadur1998@gmail.com" />][gmail]
 
 [ <img align="left" alt=" Shahid Bahadur | Linkedin"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>][instagram]
 
