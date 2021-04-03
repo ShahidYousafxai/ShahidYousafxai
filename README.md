@@ -11,6 +11,7 @@
 <img align="left" alt="Python" width="26px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
 <img align="left" alt="C++" width="26px" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" />
 <img align="left" alt="Github" width="26px" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" />
+<img align="left" alt="Github" width="26px" src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" />
 
 <br />
 
