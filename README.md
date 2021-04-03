@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Shahid Yousafxai</h2>
 
-<p align="center">Completely in love with Reading, Studying, Programming. <3.</b> </p>
+<p align="center">Completely in love with Reading, Studying, Programming.</b> </p>
 
 
 #### Technologies
