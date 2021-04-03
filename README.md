@@ -17,9 +17,6 @@
 
 
 
-<details>
-    <summary>📃 Curriculum</summary>
-
 ## Education
 
 - 📖 **Inter Pre-Engineering**
@@ -34,8 +31,6 @@
     📆 2017 - 2021 (Expected)
 
     📍 **UST Bannu** - KPK, Pakistan
-
-</details>
 
 
 [gmail]: mailto:sameerkatija@gmail.com
