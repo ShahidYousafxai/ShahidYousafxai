@@ -4,6 +4,7 @@
 
 
 <br/>
+
 ## Education
 
 - 📖 **Inter Pre-Engineering**
@@ -20,6 +21,7 @@
     📍 **UST Bannu** - KPK, Pakistan
 
 <br/>
+
 ## Technologies
 
 <img align="left" alt="HTML%" width="26px" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" />
@@ -33,4 +35,4 @@
 <br/>
 ##You can find me here:
 <br/>
-<a href="" rel="some text"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="" /></a>
+<a href="" rel="some text"><img  align="left" alt="Github" width="26px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="" /></a>
