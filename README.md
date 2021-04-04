@@ -24,9 +24,12 @@
 
     📍 **UST Bannu** - KPK, Pakistan
 
+<br/>
+<br/>
+<br/>
 
 
-#### Technologies
+## Technologies
 
 <img align="left" alt="HTML%" width="26px" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" />
 <img align="left" alt="HTML%" width="26px" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" />
@@ -41,4 +44,7 @@
 <br/>
 
 ##You can find me here:
+<br/>
+<br/>
+<br/>
 [gmail]: mailto:sameerkatija@gmail.com
