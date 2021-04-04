@@ -4,11 +4,6 @@
 
 
 <br/>
-<br/>
-<br/>
-
-
-
 ## Education
 
 - 📖 **Inter Pre-Engineering**
@@ -25,10 +20,6 @@
     📍 **UST Bannu** - KPK, Pakistan
 
 <br/>
-<br/>
-<br/>
-
-
 ## Technologies
 
 <img align="left" alt="HTML%" width="26px" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" />
@@ -40,11 +31,6 @@
 <img align="left" alt="Github" width="26px" src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" />
 
 <br/>
-<br/>
-<br/>
-
 ##You can find me here:
 <br/>
-<br/>
-<br/>
-[gmail]: mailto:sameerkatija@gmail.com
+<a href="" rel="some text"><img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="" /></a>
