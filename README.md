@@ -33,6 +33,11 @@
 <img align="left" alt="Github" width="26px" src="https://seeklogo.com/images/A/adobe-illustrator-cc-logo-C1DC5A6D09-seeklogo.com.png" />
 
 <br/>
+
 ##You can find me here:
 <br/>
-<a href="" rel="some text"><img  align="left" alt="Github" width="26px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="" /></a>
+
+<a href="" rel="Gmail"><img  align="left" alt="Github" width="26px" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="" /></a>
+<a href="" rel="Linkedin"><img  align="left" alt="Github" width="26px" src="https://www.linkedin.com/in/shahidyousafxai/" alt="" /></a>
+<a href="" rel="some text"><img  align="left" alt="Github" width="26px" src="" alt="" /></a>
+
