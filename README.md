@@ -24,7 +24,8 @@
 <br/>
 
 ## Technologies
-![Markdown Logo](https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png)
+
+<img align="left" alt="HTML%" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
 <img align="left" alt="HTML%" width="26px" src="https://seeklogo.com/images/H/html5-with-wordmark-color-logo-4259B7F24F-seeklogo.com.png" />
 <img align="left" alt="HTML%" width="26px" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" />
 <img align="left" alt="HTML%" width="26px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
