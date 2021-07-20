@@ -37,8 +37,9 @@
 ## You can find me here:
 <br/>
 
-<a href="facebook.com/ShahidYousafxai98" rel="Facebook"><img  align="left" alt="facebook" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="" /></a>
+<a href="https://facebook.com/ShahidYousafxai98" rel="Facebook"><img  align="left" alt="facebook" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="" /></a>
 <a href="mailto:shahidbahadur1998@gmail.com" rel="Gmail"><img  align="left" alt="gmail" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="" /></a>
+[Contact Us](mailto:admin@cloudhadoop.com)
 </br>
 
 ## LinkedIn & Medium
