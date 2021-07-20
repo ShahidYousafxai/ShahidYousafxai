@@ -8,7 +8,7 @@
 ## Education
 
 --- 
-  📖 **Inter Pre-Engineering**
+ - 📖 **Inter Pre-Engineering**
     
     📆 2014 - 2016
 
@@ -34,15 +34,14 @@
 
 <br/>
 
-##You can find me here:
+## You can find me here:
 <br/>
 
-<a href="facebook.com/ShahidYousafxai98" rel="Facebook"><img  align="left" alt="Github" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="" /></a>
-<a href="mailto:shahidbahadur1998@gmail.com" rel="Gmail"><img  align="left" alt="Github" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="" /></a>
+<a href="facebook.com/ShahidYousafxai98" rel="Facebook"><img  align="left" alt="facebook" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="" /></a>
+<a href="mailto:shahidbahadur1998@gmail.com" rel="Gmail"><img  align="left" alt="gmail" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" alt="" /></a>
 </br>
 
 ## LinkedIn & Medium
 </br>
-
-<a href="https://www.linkedin.com/in/shahidyousafxai/" rel="Facebook"><img  align="left" alt="Github" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" alt="" /></a>
-<a href="https://shahidyousafxai.medium.com/" rel="Facebook"><img  align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-256.png" alt="" /></a>
+<a href="https://www.linkedin.com/in/shahidyousafxai/" rel="Facebook"><img  align="left" alt="linkedin" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" alt="" /></a>
+<a href="https://shahidyousafxai.medium.com/" rel="Facebook"><img  align="left" alt="medium" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-256.png" alt="" /></a>
