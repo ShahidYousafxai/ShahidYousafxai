@@ -45,4 +45,4 @@
 ## LinkedIn & Medium
 </br>
 <a href="https://www.linkedin.com/in/shahidyousafxai/" rel="Facebook"><img  align="left" alt="linkedin" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-128.png" alt="" /></a>
-<a href="https://shahidyousafxai.medium.com/" rel="Facebook"><img  align="left" alt="medium" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-256.png" alt="" /></a>
+<a href="https://shahidyousafxai.medium.com/" rel="Facebook"><img  align="left" alt="medium" width="26px" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw" alt="" /></a>
