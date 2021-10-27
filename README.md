@@ -5,21 +5,17 @@
 <hr>
 ## Education
 <hr>
- - 📖 **Inter Pre-Engineering**
+  <h3>📖 Inter Pre-Engineering</h3>
     
     📆 2014 - 2016
-
     📍 **APSACS** - Haripur, KPK, Pakistan
-    
 
-- 📖 **BSc Software Engineering **
+  <h3>📖 BSc Software Engineering</h3>
     
     📆 2017 - 2021 (Expected)
-
     📍 **UST Bannu** - KPK, Pakistan
----
 
-## Technologies
+<h2>Technologies</h2>
 <img align="left" alt="HTML" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
 <img align="left" alt="CSS" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" />
 <img align="left" alt="JS" width="26px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" />
