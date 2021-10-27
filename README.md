@@ -23,6 +23,7 @@
 <img align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png" />
 <img align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 
+<br/>
 ## You can find me here:
 <br/>
 
