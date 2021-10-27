@@ -24,7 +24,9 @@
 <img align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 
 <br/>
-## You can find me here:
+
+<h2>You can find me here:</h2>
+
 <br/>
 
 <a href="https://facebook.com/ShahidYousafxai98" rel="Facebook"><img  align="left" alt="facebook" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" alt="" /></a>
