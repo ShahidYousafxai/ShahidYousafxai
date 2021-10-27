@@ -1,7 +1,4 @@
-<h1 align="center">
-𝐇𝐞𝐥𝐥𝐨,! 
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
-</h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨,!<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /></h1>
 <h2 align="center">I'm Shahid Yousafxai</h2>
 <p align="center">Completely in love with Programming, Traveling, Writing.</b> </p>
 <br/>
