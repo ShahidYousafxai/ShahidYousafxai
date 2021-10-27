@@ -5,9 +5,9 @@
 <h2 align="center">I'm Shahid Yousafxai</h2>
 <p align="center">Completely in love with Programming, Traveling, Writing.</b> </p>
 <br/>
----
+<hr>
 ## Education
----
+<hr>
  - 📖 **Inter Pre-Engineering**
     
     📆 2014 - 2016
