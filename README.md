@@ -23,8 +23,12 @@
 <img align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png" />
 <img align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 
-<p align="center">
-   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E"" />  
+<p align="center">         
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Alwaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" /> 
+<img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Alwaz&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
+
+ <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<hr>
 </p>
 
 ## You can find me here:
