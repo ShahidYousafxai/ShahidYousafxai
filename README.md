@@ -1,19 +1,19 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨,!<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /></h1>
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨...!<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /></h1>
 <h2 align="center">I'm Shahid Yousafxai</h2>
 <p align="center">Completely in love with Programming, Traveling, Writing.</b> </p>
 <br/>
 <hr>
-## Education
+<h2>Education</h2>
 <hr>
   <h3>📖 Inter Pre-Engineering</h3>
     
     📆 2014 - 2016
-    📍 **APSACS** - Haripur, KPK, Pakistan
+    📍 APSACS - Haripur, KPK, Pakistan
 
   <h3>📖 BSc Software Engineering</h3>
     
     📆 2017 - 2021 (Expected)
-    📍 **UST Bannu** - KPK, Pakistan
+    📍 UST Bannu - KPK, Pakistan
 
 <h2>Technologies</h2>
 <img align="left" alt="HTML" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" />
@@ -23,8 +23,9 @@
 <img align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-256.png" />
 <img align="left" alt="Github" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
 
-
-<br/>
+<p align="center">
+   <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E"" />  
+</p>
 
 ## You can find me here:
 <br/>
